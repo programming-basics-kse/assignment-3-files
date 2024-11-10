@@ -20,7 +20,7 @@
 
 ## Завдання
 
-Для початку, повторіть матеріал стосовно використання аргументів командного рядка [тут](https://www.digitalocean.com/community/tutorials/python-command-line-arguments) або [тут](https://machinelearningmastery.com/command-line-arguments-for-your-python-script/).
+Для початку, повторіть матеріал стосовно використання аргументів командного рядка - передивіться відео на муддлі, прочитайте матеріал [тут](https://www.digitalocean.com/community/tutorials/python-command-line-arguments) або [тут](https://machinelearningmastery.com/command-line-arguments-for-your-python-script/).
 
 Ця практична складається з декількох завданнь. Їх слід виконувати **послідовно**, тобто найбільш повна програма матиме всередині себе всі завдання.
 
